@@ -1,4 +1,33 @@
 ——-BEGIN CERTIFICATE——-
+Nghĩ cái địt gì vậy Reg cái lol chỉ có hack thì mới có td Reg chỉ danh cho pc thôi bé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   aimbot Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Control Panel\Mouse]
